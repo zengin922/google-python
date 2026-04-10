@@ -15,7 +15,7 @@ This repository documents my progress through the Google Course on Python.
 
 
 
-- Day 2: Completed the first lab which consisted 3 tasks, they were a mix of printing tasks and using the i in Range function.
+- Day 2: Completed the first lab which consisted 3 tasks, they were a mix of printing tasks and using the i in range function.
 
 ## Reflection 
 So far I've remembered how to take user input & fix syntax errors 
